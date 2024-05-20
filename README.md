@@ -10,29 +10,29 @@ Menu dashboard,
 Menu registrasi masyarakat,
 Halaman pengaduan,
 Halaman detail respon,
-Halaman user,
+Halaman user
 
 Petugas: 
-Menu dashboard
-Menu tambah anggota
-Menu edit anggota
-Halaman pengaduan
-Halaman detail
-Halaman respon
-Halaman user
-Fitur tambah user
-Fitur edit user
+Menu dashboard,
+Menu tambah anggota,
+Menu edit anggota,
+Halaman pengaduan,
+Halaman detail,
+Halaman respon,
+Halaman user,
+Fitur tambah user,
+Fitur edit user,
 Fitur cetak hasil laporan
 
 Admin:
-Menu dashboard
-Menu tambah anggota
-Menu edit anggota
-Halaman pengaduan
-Halaman detail
-Halaman respon
-Fitur tambah user
-Fitur edit user
+Menu dashboard,
+Menu tambah anggota,
+Menu edit anggota,
+Halaman pengaduan,
+Halaman detail,
+Halaman respon,
+Fitur tambah user,
+Fitur edit user,
 Fitur cetak hasil laporan
 
 
