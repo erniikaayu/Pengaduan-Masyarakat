@@ -5,17 +5,17 @@ Aplikasi Pengaduan Masyarakat merupakan aplikasi berbasis web yang digunakan unt
 
 
 # FITUR-FITUR
-Menu dashboard
-Menu registrasi masyarakat
-Menu tambah anggota
-Menu edit anggota
-Halaman pengaduan
-Halaman detail
-Halaman respon
-Halaman user
-Fitur tambah user
-Fitur edit user
-Fitur cetak hasil laporan
+-Menu dashboard
+-Menu registrasi masyarakat
+-Menu tambah anggota
+-Menu edit anggota
+-Halaman pengaduan
+-Halaman detail
+-Halaman respon
+-Halaman user
+-Fitur tambah user
+-Fitur edit user
+-Fitur cetak hasil laporan
 
 
 # POSTER
