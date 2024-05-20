@@ -9,6 +9,7 @@ Aplikasi Pengaduan Masyarakat merupakan aplikasi berbasis web yang digunakan unt
 
 
 # POSTER
+![WhatsApp Image 2024-05-06 at 18 39 48_f301b5a6](https://github.com/erniikaayu/Pengaduan-Masyarakat/assets/126757776/9fccbdfc-371f-404a-b2bb-c280c9747bc3)
 
 
 
